@@ -22,7 +22,7 @@
       <scope>test</scope>
     </dependency>
 
-    <!-- https://mvnrepository.com/artifact/com.aliyun.mns/aliyun-sdk-mns -->
+    
     <dependency>
       <groupId>com.aliyun.mns</groupId>
       <artifactId>aliyun-sdk-mns</artifactId>
